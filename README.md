@@ -10,6 +10,5 @@
 
 ## 成果
 ![](執行過程的擷圖或說明圖片)
-...
-(你的影片連結)](https://youtu.be/lm7bTKu8IvM)
-...
+(https://youtu.be/lm7bTKu8IvM)
+
