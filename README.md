@@ -2,11 +2,11 @@
 爬取中文書籍，共 200 本。
 
 ## 安裝套件
-- requests (版本號)
-- beautifulsoup4 (版本號)
-- selenium (版本號)
-...
-(版本號可用 pip list，或是 conda list 來檢視)
+- requests
+- beautifulsoup4
+- pprint
+- os
+- re
 ...
 
 ## 成果
